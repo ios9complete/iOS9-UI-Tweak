@@ -1,0 +1,25 @@
+# Swift
+.DS_Store
+*.xcuserdatad
+*.xcworkspace
+*.xcodeproj/!
+*.xcodeproj/project.xcworkspace/!
+*.xcodeproj/xcuserdata/!
+*.xcodeproj/xcuserdata/*.xcuserdatad/*.xcuser
+
+# Xcode
+DerivedData/
+*.hmap
+*.ipa
+*.app
+*.app.dSYM
+*.ipa
+*.sym
+
+# Tweak development
+.Cydia.*
+*~
+*.log
+*.bak
+*.tmp
+*.swp
