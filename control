@@ -1,0 +1,7 @@
+Package: iOS9-UI-Tweak
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ios9complete
+Description: A tweak for enhancing the UI on iOS 9.
+Depends: firmware (>= 9.0), tweak (>= 1.0.0)
+Homepage: <homepage-url>
