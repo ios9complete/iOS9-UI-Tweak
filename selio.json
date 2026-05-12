@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "name": "iOS9 UI Tweak",
+  "description": "iOS 9 UI customization and tweaking utilities",
+  "author": "ios9complete",
+  "license": "Other",
+  "language": "Logos",
+  "category": "ui-customization",
+  "tags": [
+    "ios",
+    "ui",
+    "tweak",
+    "customization",
+    "ios9"
+  ],
+  "compatibility": {
+    "platforms": [
+      "iOS"
+    ],
+    "minVersion": "9.0"
+  },
+  "contents": {
+    "type": "code",
+    "format": "logos"
+  },
+  "selio": {
+    "enabled": true,
+    "displayName": "iOS9 UI Tweak",
+    "snippet": true,
+    "preview": true
+  }
+}
